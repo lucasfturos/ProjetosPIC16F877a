@@ -30,4 +30,6 @@ Os microprogramas serão desenvolvidos em Assembly e C, futuramente irei postar 
  - Sobre eles:
    - Contador Hexadecimal. O contador exibe em um display de 7 segmentos a contagem em ordem crescente de 0 à F. 
      Ele foi simulado seguindo o esquema elétrico do Kit SENAI.
-   
+   - Pisca LED. Pisca um LED, eu fiz para testar o simulador SimulIDE. O Microprograma foi desenvolvido no 
+     MPLAB X IDE. O diagrama está na pasta Diagrama.
+       
